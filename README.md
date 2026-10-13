@@ -7,6 +7,8 @@
 
 ## Overview
 
+<img width="244" height="400" alt="image" src="https://github.com/user-attachments/assets/abe0c3db-574a-49ac-8175-6f9f4e15fe4f" />
+
 The **Trigonometric Expression Tool** is a Maya helper tool designed to speed up the creation of procedural wave, sine, cosine, and tangent animation expressions.
 
 The tool allows riggers and technical artists to generate expression code from a simple UI instead of manually writing repeated trigonometric formulas for each controller or object.
